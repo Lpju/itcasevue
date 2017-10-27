@@ -1,0 +1,13 @@
+#lp1{
+	background-color: red;
+}
+#decl{
+	height: 100px;
+	width: 300px;
+	background-image: url(../images/logo.png);
+}
+#decl3{
+	height: 400px;
+	width: 400px;
+	background-image: url(../images/bg.png);
+}
